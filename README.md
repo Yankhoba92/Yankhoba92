@@ -22,7 +22,7 @@ Je suis Yankhoba, un développeur web passionné par la création d'applications
 
 ## 📫 Comment me joindre
 
-- LinkedIn: [Votre Nom sur LinkedIn](www.linkedin.com/in/yankhoba-bagayoko)
+- LinkedIn: [yankhoba-bagayoko](www.linkedin.com/in/yankhoba-bagayoko)
 
 
 
