@@ -11,7 +11,6 @@ Je suis Yankhoba, un développeur web passionné par la création d'applications
 - **Frameworks Back-end :** Node.js, Next.js, Symfony
 - **Base de données :** MySQL, MongoDB
 - **Outils de Versionnement :** ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-- **Autres :** RESTful API, Sass, Webpack
 
 
 ## 🛠️ Technologies
