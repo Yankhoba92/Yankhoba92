@@ -28,12 +28,12 @@ Je suis **Yankhoba Bagayoko**, un développeur web passionné par la création d
 - **Développeur web** chez **HDM Network** | Mars 2024 - Juin 2024
 - **Développeur d'application SaaS** chez **GENIUNOM** | Août 2021 - Octobre 2021
 - **Intégrateur web** chez **39 Moustaches** | Février 2021 - Avril 2021
-- **Développeur intégrateur web** chez **PoleS** | Juin 2020 - Avril 2021
 
 ## 🎓 Formations
 
 - **Titre professionnel Concepteur Développeur d'Application (Niveau BAC+3)** | Prepavenir Formation Franconville | Septembre 2023 - Juillet 2024
 - **Concepteur Développeur Front-end** | Greta des Hauts-de-Seine | Avril 2021 - Juillet 2021
+-  **Développeur intégrateur web** chez **PoleS** | Juin 2020 - Avril 2021
 - **Pass Numérique** | CNAM | Octobre 2019 - Juin 2020
 
 ## 📫 Comment me joindre
